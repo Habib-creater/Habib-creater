@@ -4,7 +4,7 @@
 
 Electronics Engineering student with hands-on experience in PCB design, embedded systems, and sensor integration. I work with Altium Designer and KiCad for PCB development and STM32/ESP32 platforms for embedded firmware and hardware integration.
 
-Currently, I am working on multi-layer PCB design and embedded firmware development during my internship at Syncro Pakistan.
+My work includes multi-layer PCB design, embedded firmware, sensor interfacing, analog circuit design, and RF/antenna simulation.
 
 ## Technical Skills
 
