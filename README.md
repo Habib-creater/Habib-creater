@@ -91,6 +91,7 @@ Inset-fed microstrip patch antenna designed on an FR-4 substrate and simulated i
 - Biomedical instrumentation
 - Sensor systems
 - Multi-layer PCB design
+- Wireless Communication
 
 ## Education
 
