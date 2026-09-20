@@ -38,12 +38,6 @@ My work includes multi-layer PCB design, embedded firmware, sensor interfacing, 
 - MATLAB
 - Git & GitHub
 
-## Current Work
-
-**PCB Design & Embedded Systems Intern — Syncro Pakistan**
-
-Currently working on multi-layer PCB development and embedded firmware for hardware applications, including schematic and PCB development, datasheet analysis, communication protocols, signal integrity, prototyping, and hardware testing.
-
 ## Selected Projects
 
 ### PCB Design & Embedded Systems
